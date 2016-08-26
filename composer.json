@@ -1,0 +1,15 @@
+{
+  "name": "vendor",
+  "description": "BeeJee test",
+  "minimum-stability": "dev",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "authors": [
+    {
+      "name": "php-shaman",
+      "email": "comaw@i.ua"
+    }
+  ],
+  "require": {
+
+  }
+}
