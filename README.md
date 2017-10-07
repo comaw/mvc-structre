@@ -1,2 +1,1 @@
-# beejee-test
-test for BeeJee
+# MVC
